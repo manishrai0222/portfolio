@@ -1,0 +1,25 @@
+<html>
+<head>
+<style>
+h1 { text-align: center; color:black; font-size:300% ;border: 2px black; }
+h2 {text-align: center; font-family:verdana}
+<body style="background-colour: orange">
+</body>
+.menu {
+float: left;
+width: 30%;
+}
+.menuitem {
+ padding: 8px;
+ margin-top: 7px;
+ border-bottom: 1px solid #f1f1f1;
+
+</style>
+<h1>Portfolio</h1>
+<h2> Manish Kumar Rai</h2>
+<title> manish kumar rai </title>
+</head>
+<body>
+<marquee><p> Student at Ajay Kumar Garg Engineering College.<br> Branch-Electrical And Electronics Engineering. </marquee></p>
+</body>
+</html>

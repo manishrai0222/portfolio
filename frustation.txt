@@ -1,16 +1,86 @@
 <html>
 <head>
+<title> manish kumar rai </title>
 <style>
 h1 { text-align: center; color:black; font-size:300% ;border: 2px black; }
 h2 {text-align: center; font-family:verdana}
+h3 {text-align: center; font family:verdana}
+h4 {text-align; center; font family;verdana}
 body{ background-color:lightgreen;}
 </style>
-<h1>Portfolio</h1>
-<h2> Manish Kumar Rai</h2>
-<title> manish kumar rai </title>
 </head>
 <body>
-<img src="C:\Users\Pranjal\Desktop\WhatsApp Image 2019-08-30 at 23.13.33.jpeg" width="300" height="300"/>
-/<marquee><p> Student at Ajay Kumar Garg Engineering College.<br> Branch-Electrical And Electronics Engineering. </marquee></p>
+<h1>Portfolio</h1>
+<h2> Manish Kumar Rai
+<a href="https://github.com/manishrai0222"><img src="C:\Users\Pranjal\Desktop\github icon.jpg" width="50" height="40"></a>
+<a href="https://www.linkedin.com/in/manish-rai-a32695190?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjVv0DYTZQ%2ByjJIamb8Neug%3D%3D"><img src="C:\Users\Pranjal\Desktop\linkedin image.jpg" width="50" height=40"></a>
+<div> <a href="HTMLL.TXT"><mark>ABOUT ME</mark></a></div>
+<div> <a href="HTMLL.TXT"><mark>CONTACT ME</mark></a></div>
+<p style="text-align: center"><U>CONTACT FORM</U></P>
+<div class="contact form">
+<div class="input-fields">
+<input type="text" class input" placeholder=Name">
+<input  type="text" class input" placeholder=Email address">
+</div>
+<div class="msg">
+<textarea placeholder="Message"></textarea>
+<div class="btn"><button>Send</button></div>
+</div>
+</div>
+
+</h2>
+<h3><img src="C:\Users\Pranjal\Desktop\WhatsApp Image 2019-08-30 at 23.13.33.jpeg" width="300" height="300">
+<marquee><p> Student at Ajay Kumar Garg Engineering College.<br> Branch-Electrical And Electronics Engineering. </marquee></p>
+<h4>QUALIFICATION</h4>
+<table style="width:100%">
+
+<tr>
+<th>class</th>
+<th>board</th>
+<th>percentage</th>
+</tr>
+<tr>
+<td>10th</td>
+<td>ICSE</td>
+<td>84%</td>
+</tr>
+
+<tr>
+<td>12th</td>
+<td>ISC</td>
+<td>81%</td>
+</tr>
+<tr>
+<td>B.TECH 1st year</td>
+<td>UPTU</td>
+<td>68%</td>
+</tr>
+</table>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </body>
 </html>
